@@ -1,0 +1,23 @@
+/*
+$light_blue:			rgba((131,212,248,1);
+$dark_blue:				rgba((71,171,228,1);
+
+$alt_light_blue:	rgba(136,217,251,1);
+$alt_dark_blue:		rgba(77,176,230,1);
+
+$white:						rgba(255,255,255,1);
+$blue_white:			rgba(214,238,249,1);
+
+$pic_border:			rgba(0,173,243,1);
+
+$header_background: rgba(238,239,241,1);
+*/
+body {
+  background-color: red; }
+
+ul li a {
+  list-style-type: none;
+  color: black; }
+  ul li a:hover {
+    color: red;
+    text-decoration: none; }
