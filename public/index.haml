@@ -1,0 +1,168 @@
+!!! 5
+
+-# paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/
+
+-# <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+-# <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+-# <!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+-# <!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+%html.no-js{:lang => "en"}
+  %head
+    %meta{:charset => "utf-8"}
+
+      %title Dairyv
+      %meta{:name => "description", :content => ""}
+        -# %meta{:name => "keywords", :content => ""}
+        -# %meta{:name => "author", :content => ""}
+        -# Mobile
+        -# ==========================================================================
+      %meta{:name => "viewport", :content => "width=device-width, initial-scale=1"}
+        -# %meta{:name => "HandheldFriendly", :content => "True"}
+        -# %meta{:name => "MobileOptimized", :content => "320"}
+
+        -# iOS web app
+
+        -# %meta{:name => "apple-mobile-web-app-capable", :content => "yes"}
+        -# %meta{:name => "apple-mobile-web-app-status-bar-style", :content => "black"}
+        -# %link{:rel => "apple-touch-startup-image", :href => "/img/touch/startup.png"}
+
+
+      %link{:href => "/favicon.ico", :rel => "shortcut icon"}
+
+        -# iPad 3 Retina Display
+
+        -# %link{:rel => "apple-touch-icon-precomposed", :sizes => "144x144", :href => "/img/touch/apple-touch-icon-144x144-precomposed.png"}
+
+        -# iPhone 4 Retina display
+
+        -# %link{:rel => "apple-touch-icon-precomposed", :sizes => "114x114", :href => "/img/touch/apple-touch-icon-114x114-precomposed.png"}
+
+        -# iPad non-Retina display
+
+        -# %link{:rel => "apple-touch-icon-precomposed", :sizes => "72x72", :href => "/img/touch/apple-touch-icon-72x72-precomposed.png"}
+
+        -# Non-Retina iPhone, iPod Touch, Android 2.1+
+
+        -# %link{:rel => "apple-touch-icon-precomposed", :href => "/img/touch/apple-touch-icon-57x57-precomposed.png"}
+
+        -# Nokia
+
+        -# %link{:rel => "shortcut icon", :href => "/img/touch/apple-touch-icon.png"}
+
+        -# CSS
+        -# ==========================================================================
+
+      %link{:rel => "stylesheet", :type => "text/css", :href => "css/base.css"}
+        -# %link{:rel => "stylesheet", :media => "only screen and (min-width: 45em)", :href => "/css/widescreen.css"}
+
+        -# IE Fixes
+        -# ==========================================================================
+
+        -#
+        -# Use HTML5 Shim polyfill if not using Modernizr
+        -# Compiled IE stylesheets for legacy IE "Mobile first" support (using SASS)
+        -# nicolasgallagher.com/mobile-first-css-sass-and-ie/
+        -#
+
+        -# /[if (lt IE 9) & (!IEMobile)]
+            -# %script{:src => "//html5shim.googlecode.com/svn/trunk/html5.js"}
+            %script{:src => "/js/libs/selectivizr.min.js"}
+            -# %link{:rel => "stylesheet", :href => "/css/oldie.css"}
+            -# %link{:rel => "stylesheet", :href => "/css/ie8.css"}
+
+        -# [if (lt IE 8) & (!IEMobile)]
+            %link{:rel => "stylesheet", :href => "/css/ie7.css"}
+
+        -# [if IE 6 & (!IEMobile)]
+            %link{:rel => "stylesheet", :href => "/css/ie6.css"}
+
+        -# JS
+        -# ==========================================================================
+
+        -# Typekit - change XXXXXXX to be your site's Typekit Kit ID
+
+        -# %script{:src => "http://use.typekit.com/XXXXXXX.js"}
+        -# :javascript
+            try{Typekit.load();}catch(e){}
+
+        -# Modernizr
+
+        -# %script{:src => "/js/libs/modernizr.custom.js"}
+
+  %body
+    %section#masthead
+      .container
+        -#%img{ :src => "images/logo.png", :width => 500 }
+        %h1#logo Dairyvative Technology, LLC
+    %nav
+      %ul
+        %li
+          %a{:href => "home.html"}Home
+        %li
+          %a{:href => "#"}About Us
+        %li
+          %a{:href => "#"}Our Misson
+        %li
+          %a{:href => "#"}Innovation
+        %li
+          %a{:href => "sevenx.html"}Sevenx
+        -#%li
+          %a{:href => "#"}Application
+        -#%li
+          %a{:href => "#"}Packaging
+        -#%li
+          %a{:href => "#"}Physical Properties
+        %li
+          %a{:href => "#"}Contact Info
+    %section.cf
+      .container
+        %article
+          %section#left_column
+            %img{ :src => "http://placekitten.com/g/500/500", :height => 500, :width => 500 }
+          %section#right_column
+            -#%h2 Article title
+            %p Dairyvative Technology, founded by Dr. Charles E Sizer, develops, licenses, and provides service for the patented SEVENx technology for processing shelf-stable milk concentrate.  This technology will enable worldwide distribution of quality fresh lactose free milk product.
+            %h2 The Technology
+            %p Dairyvative technology has a patented, paradigm changing new technology that allows high quality lactose free pasteurized milk to be concentrated 6 to 9 times.  The resulting product is a dense but fluid lactose-free shelf stable milk with water activity less than 0.88 that can be distributed without refrigeration.
+    %section#copyright
+      %p COPYRIGHT! Etsy trust fund single-origin coffee, Pinterest Austin hella small batch kitsch salvia before they sold out Vice church-key forage vegan Bushwick. DIY biodie sel try-hard irony.
+    %footer
+      %ul
+        %li
+          %a{:href => "#"}Sitemap
+        %li
+          %a{:href => "#"}Search
+        %li
+          %a{:href => "#"}Careers
+        %li
+          %a{:href => "#"}Terms of Use
+        %li
+          %a{:href => "#"}Privacy Policy
+      %p Copyright 2013 Dairyvative Technology, LLC
+
+
+      -# JS
+      -# ==========================================================================
+
+      -# jQuery
+
+      -# %script{:src => "//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"}
+      -# :javascript
+          window.jQuery || document.write('<script src="/js/jquery-1.7.2.min.js"><\/script>')
+
+      -# Custom JS
+
+      -# %script{:src => "/js/app.js"}
+
+      -#
+      -# Asynchronous Google Analytics
+      -# Change UA-XXXXX-X to be your site's ID
+      -# mathiasbynens.be/notes/async-analytics-snippet
+      -#
+
+      -# :javascript
+          var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+          (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+          g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+          s.parentNode.insertBefore(g,s)}(document,'script'));
