@@ -13,15 +13,15 @@ $pic_border:			rgba(0,173,243,1);
 $header_background: rgba(238,239,241,1);
 */
 
-#masthead { background: url(images/header_top.png) no-repeat top right #fff;
+#masthead { background: url(../images/header_top.png) no-repeat top right #fff;
 	background-size: 100%;
  }
 
 
 h1#logo {
-   width: 500px; // width of image
-   height: 100px; // height of image
-   background: url(images/logo.png); 
+   width: 373px; // width of image
+   height: 93px; // height of image
+   background: url(../images/logo.png);
    text-indent: -9999px;
 }
 

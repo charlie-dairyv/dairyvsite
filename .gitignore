@@ -47,3 +47,6 @@ erd.pdf
 
 # Ignores individual user procfiles following standard Procfile.dev-rw
 Procfile.dev-*
+
+#ignore html files
+*.html
