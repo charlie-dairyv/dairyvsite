@@ -20,7 +20,8 @@ h1#logo {
   width: 373px;
   height: 93px;
   background: url(../images/logo.png);
-  text-indent: -9999px; }
+  text-indent: -9999px;
+  margin: 0; }
 
 body {
   width: 1024px;
