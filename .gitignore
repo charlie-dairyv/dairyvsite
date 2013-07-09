@@ -49,4 +49,4 @@ erd.pdf
 Procfile.dev-*
 
 #ignore html files
-*.html
+#*.html
