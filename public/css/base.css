@@ -23,10 +23,10 @@ h1#logo {
   text-indent: -9999px; }
 
 body {
-  margin: 20px;
-  padding: 10px; }
+  width: 1024px;
+  margin: 0 auto; }
 
-ul {
+nav ul {
   background-color: #82d5f8;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#82d5f8), to(#47aae4));
   background-image: -webkit-linear-gradient(top, #82d5f8, #47aae4);
@@ -37,21 +37,22 @@ ul {
   float: left;
   width: 100%;
   position: relative;
-  padding-left: 0; }
-  ul li {
+  padding-left: 0;
+  margin-top: 0; }
+  nav ul li {
     list-style-type: none;
     display: block;
     float: left;
     border-right: 1px solid #fff;
     text-align: center;
     position: relative; }
-    ul li a {
+    nav ul li a {
       font-size: 20px;
       float: left;
       color: #fff;
       padding: 18px 25px;
       text-decoration: none; }
-      ul li a:hover {
+      nav ul li a:hover {
         padding: 18px 25px;
         background-color: #47aae4;
         background-image: -webkit-gradient(linear, left top, left bottom, from(#47aae4), to(#82d5f8));
