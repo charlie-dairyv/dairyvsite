@@ -1,30 +1,20 @@
-/*
-$light_blue:			rgba(131,212,248,1);
-$dark_blue:				rgba(71,171,228,1);
+body {
+  width: 1024px;
+  margin: 0 auto;
+  font: normal 14px/150% Helvetica, Arial, sans-serif; }
 
-$alt_light_blue:	rgba(136,217,251,1);
-$alt_dark_blue:		rgba(77,176,230,1);
-
-$white:						rgba(255,255,255,1);
-$blue_white:			rgba(214,238,249,1);
-
-$pic_border:			rgba(0,173,243,1);
-
-$header_background: rgba(238,239,241,1);
-*/
 #masthead {
   background: url(../images/header_top.png) no-repeat top right white;
-  background-size: 100%; }
+  background-size: 100%;
+  height: 98px;
+  padding-top: 40px; }
 
 h1#logo {
   width: 373px;
   height: 93px;
   background: url(../images/logo.png);
-  text-indent: -9999px; }
-
-body {
-  width: 1024px;
-  margin: 0 auto; }
+  text-indent: -9999px;
+  margin: 0; }
 
 nav ul {
   background-color: #82d5f8;
@@ -41,31 +31,104 @@ nav ul {
   margin-top: 0; }
   nav ul li {
     list-style-type: none;
+    font-weight: lighter;
     display: block;
     float: left;
-    border-right: 1px solid #fff;
     text-align: center;
+    font-size: 16px;
+    color: #fff;
     position: relative; }
     nav ul li a {
-      font-size: 20px;
-      float: left;
+      font-size: 16px;
       color: #fff;
-      padding: 18px 25px;
+      float: left;
+      padding: 12px 25px;
       text-decoration: none; }
-      nav ul li a:hover {
-        padding: 18px 25px;
-        background-color: #47aae4;
-        background-image: -webkit-gradient(linear, left top, left bottom, from(#47aae4), to(#82d5f8));
-        background-image: -webkit-linear-gradient(top, #47aae4, #82d5f8);
-        background-image: -moz-linear-gradient(top, #47aae4, #82d5f8);
-        background-image: -o-linear-gradient(top, #82d5f8, #47aae4);
-        background-image: linear-gradient(to bottom, #47aae4, #82d5f8);
-        text-decoration: none; }
+nav li {
+  border-right: 1px solid #fff;
+  text-transform: uppercase; }
+  nav li a:hover {
+    padding: 12px 25px;
+    background-color: #47aae4;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#47aae4), to(#82d5f8));
+    background-image: -webkit-linear-gradient(top, #47aae4, #82d5f8);
+    background-image: -moz-linear-gradient(top, #47aae4, #82d5f8);
+    background-image: -o-linear-gradient(top, #82d5f8, #47aae4);
+    background-image: linear-gradient(to bottom, #47aae4, #82d5f8);
+    text-decoration: none; }
 
-#left_column, #right_colum {
+footer li:last-child {
+  font-size: 12px;
+  float: right;
+  padding: 14px 10px 0 0; }
+footer ul {
+  background-color: #82d5f8;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#82d5f8), to(#47aae4));
+  background-image: -webkit-linear-gradient(top, #82d5f8, #47aae4);
+  background-image: -moz-linear-gradient(top, #82d5f8, #47aae4);
+  background-image: -o-linear-gradient(top, #82d5f8, #47aae4);
+  background-image: linear-gradient(to bottom, #82d5f8, #47aae4);
+  display: block;
+  float: left;
+  width: 100%;
+  position: relative;
+  padding-left: 0;
+  margin-top: 0; }
+  footer ul li {
+    list-style-type: none;
+    font-weight: lighter;
+    display: block;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    position: relative; }
+    footer ul li a {
+      font-size: 16px;
+      color: #fff;
+      float: left;
+      padding: 12px 25px;
+      text-decoration: none; }
+footer a:hover {
+  text-decoration: underline; }
+
+#left_column {
   float: left;
   display: block;
-  margin-right: 20px; }
+  margin-right: 20px;
+  width: 510px;
+  position: relative; }
+  #left_column img {
+    border: #83d4f8 3px solid;
+    padding: 5px; }
+
+#right_column {
+  width: 490px;
+  float: left;
+  position: relative; }
+
+#content {
+  display: block;
+  position: relative;
+  float: left; }
+
+#content:after {
+  content: " ";
+  position: absolute;
+  right: -3%;
+  bottom: -25%;
+  display: block;
+  height: 421px;
+  width: 606px;
+  background: url(../images/milk_splash.png) 50% bottom no-repeat;
+  z-index: -1; }
+
+#copyright {
+  color: #a8a9ad;
+  background-color: #f7f9f8;
+  padding: 20px;
+  font-family: Times, serif;
+  letter-spacing: 0.1em; }
 
 /* Clear Fix */
 .cf:before,
