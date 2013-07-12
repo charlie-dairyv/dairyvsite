@@ -123,19 +123,20 @@ footer {
 display: block;
 position: relative;
 float: left;
-}
-
-				#content:after {
+	#bg {
 				content: " ";
 				position: absolute;
-				right:						-3%;
-				bottom: 					-25%;
+				bottom: 					0;
+				right: 						-3%;
 				display: 					block;
-				height: 					421px;
+				height: 					269px;
 				width: 						606px;
-				background: url(../images/milk_splash.png) 50% bottom no-repeat;
+				background-image: url(../images/milk_splash.png);
+				background-repeat: no-repeat;
 				z-index:					-1;
-				}
+		
+	}
+}
 
 #copyright { 
 	color: 						rgba(168,169,173,1);

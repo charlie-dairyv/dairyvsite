@@ -111,17 +111,17 @@ footer a:hover {
   display: block;
   position: relative;
   float: left; }
-
-#content:after {
-  content: " ";
-  position: absolute;
-  right: -3%;
-  bottom: -25%;
-  display: block;
-  height: 421px;
-  width: 606px;
-  background: url(../images/milk_splash.png) 50% bottom no-repeat;
-  z-index: -1; }
+  #content #bg {
+    content: " ";
+    position: absolute;
+    bottom: 0;
+    right: -3%;
+    display: block;
+    height: 269px;
+    width: 606px;
+    background-image: url(../images/milk_splash.png);
+    background-repeat: no-repeat;
+    z-index: -1; }
 
 #copyright {
   color: #a8a9ad;
