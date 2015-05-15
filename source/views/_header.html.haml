@@ -1,0 +1,33 @@
+%section#masthead
+  .container
+    -#%img{ :src => "images/logo.png", :width => 500 }
+    %h1#logo Dairyvative Technologies, LLC
+%nav
+  %ul
+    %li
+      = link_to 'Home', '/index.html'
+    %li
+      = link_to 'Innovation', '/innovation.html'
+      %ul
+        %li
+          = link_to 'Stub', '/sustainability.html'
+        %li
+          = link_to 'Stub 2', '/about.html'
+          %ul
+            %li
+              = link_to 'Stub', '/sustainability.html'
+            %li
+              = link_to 'Stub 2', '/about.html'
+            %li
+              = link_to 'Stub thats longer', '/contact.html'
+            %li
+            = link_to 'ElStubareno', '/sustainability.html'
+          %li
+            = link_to 'Stub thats longer', '/contact.html'
+          %li
+            = link_to 'ElStubareno', '/sustainability.html'
+    %li
+      = link_to 'About Us', '/about.html'
+    %li
+      = link_to 'Contact Info', '/contact.html'
+

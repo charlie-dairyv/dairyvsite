@@ -28,11 +28,11 @@ a {
   text-decoration: none;
   transition: color 0.1s linear;
 
-  &:active,
-  &:focus,
-  &:hover {
-    color: darken($action-color, 15%);
-  }
+//  &:active,
+//  &:focus,
+//  &:hover {
+//    color: darken($action-color, 15%);
+//  }
 
   &:active,
   &:focus {

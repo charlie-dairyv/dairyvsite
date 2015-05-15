@@ -26,6 +26,17 @@ $base-background-color: #fff;
 $base-font-color: $dark-gray;
 $action-color: $blue;
 
+$nav-font-color: $base-background-color;
+$nav-background-active-color: #005bbf;
+$nav-background-passive-top-color: #005bbf;
+$nav-background-passive-bottom-color: #008ed6;
+$nav-border-color: $base-background-color;
+
+$dropdown-font-color: #008ed6;
+$dropdown-backround-passive-color: #008ed6;
+$dropdown-backround-active-color: #c4d8e2;
+$dropdown-border-color: #adafaa;
+
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
