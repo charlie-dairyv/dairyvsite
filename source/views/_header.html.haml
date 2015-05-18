@@ -1,31 +1,35 @@
 %section#masthead
-  .container
-    -#%img{ :src => "images/logo.png", :width => 500 }
-    %h1#logo Dairyvative Technologies, LLC
+  -#%img{ :src => "images/logo.png", :width => 500 }
+  %h1#logo Dairyvative Technologies, LLC
 %nav
-  %ul
-    %li
+  %ul#main_nav
+    %li#first_li
       = link_to 'Home', '/index.html'
     %li
       = link_to 'Innovation', '/innovation.html'
-      %ul
+      %ul#sub_nav
         %li
           = link_to 'Stub', '/sustainability.html'
         %li
           = link_to 'Stub 2', '/about.html'
-          %ul
+          %ul#sub_nav
             %li
               = link_to 'Stub', '/sustainability.html'
             %li
               = link_to 'Stub 2', '/about.html'
             %li
-              = link_to 'Stub thats longer', '/contact.html'
-            %li
-            = link_to 'ElStubareno', '/sustainability.html'
+              = link_to 'Stub longer', '/contact.html'
           %li
             = link_to 'Stub thats longer', '/contact.html'
           %li
-            = link_to 'ElStubareno', '/sustainability.html'
+            = link_to 'distinct', '/sustainability.html'
+            %ul#sub_nav
+              %li
+                = link_to 'Stub', '/sustainability.html'
+              %li
+                = link_to 'Stub 2', '/about.html'
+              %li
+                = link_to 'Stub longer', '/contact.html'
     %li
       = link_to 'About Us', '/about.html'
     %li

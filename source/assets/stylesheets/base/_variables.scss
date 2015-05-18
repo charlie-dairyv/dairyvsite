@@ -28,14 +28,15 @@ $action-color: $blue;
 
 $nav-font-color: $base-background-color;
 $nav-background-active-color: #005bbf;
-$nav-background-passive-top-color: #005bbf;
-$nav-background-passive-bottom-color: #008ed6;
+$nav-background-passive-top-color: rgba(113,205,243,1);
+$nav-background-passive-bottom-color: rgba(41,167,225,1);
 $nav-border-color: $base-background-color;
 
-$dropdown-font-color: #008ed6;
-$dropdown-backround-passive-color: #008ed6;
-$dropdown-backround-active-color: #c4d8e2;
+$dropdown-font-color: rgba(0,152,216,1);
+$dropdown-backround-passive-color: rgba(241,241,241,1);
+$dropdown-backround-active-color: rgba(215,234,248,1);
 $dropdown-border-color: #adafaa;
+$dropdown-width: 250px;
 
 // Border
 $base-border-color: $light-gray;

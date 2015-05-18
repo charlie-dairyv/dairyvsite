@@ -1,19 +1,14 @@
 body {
-  background-color: $light-gray;
-  color: $medium-gray;
+  background-color: $base-background-color;
+  color: $base-font-color;
+  margin: 0 auto;
+  width: 1024px;
 }
 
-.delete-me {
-  @include align-items(center);
-  @include display(flex);
-  @include justify-content(center);
-  height: 100vh;
-
-  .container {
-    text-align: center;
-
-    h1 {
-      font-weight: 200;
-    }
-  }
+#masthead {
+  background-image: url(image-path('header_logo.png')), url(image-path('header_home.jpg'));
+  background-position: 50px 40px, left top;
+  background-repeat: no-repeat;
+  display: block;
+  height: 343px;
 }
