@@ -42,6 +42,7 @@ nav a {
 
 #sub_nav li:hover, #sub_nav li:active {
   background-color: $dropdown-backround-active-color;
+  box-shadow: 4px 5px 13px -6px rgba(0,0,0,0.56);
 }
 
 /* Hide Dropdowns by Default */
@@ -52,6 +53,7 @@ nav ul ul {
 }
 
 #sub_nav li {
+//  box-shadow: 4px 5px 13px -6px rgba(0,0,0,0.56);
   background-color: $dropdown-backround-passive-color;
   color: $dropdown-font-color;
   margin-right: 5px;
