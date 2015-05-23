@@ -9,3 +9,4 @@ gem "bourbon"
 gem "neat"
 gem 'puma', '~> 2.11.2'
 gem 'rack-contrib', '~> 1.2.0'
+gem 'redcarpet', '~> 3.2.3'
