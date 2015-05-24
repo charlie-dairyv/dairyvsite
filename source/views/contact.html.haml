@@ -1,0 +1,26 @@
+---
+title: "Contact Page Title"
+md_file: contact
+---
+%section#half
+  %article
+    = partial :contact_data
+  %aside
+    %form{:action => "//formspree.io/rjmcdonald83@gmail.com", :method => "POST"}
+      %label Full Name
+      %input{:name => "full_name", :type => "text"}
+      %label Title
+      %input{:name => "title", :type => "text"}
+      %label Comapny
+      %input{:name => "comapny", :type => "text"}
+      %label Address
+      %input{:name => "address", :type => "text"}
+      %label City
+      %input{:name => "city", :type => "text"}
+      %label State
+      %input{:name => "state", :type => "text"}
+      %label Postal Code
+      %input{:name => "postal_code", :type => "text"}
+      %label Email
+      %input{:name => "_replyto", :type => "email"}
+      %input{:type => "submit", :value => "Send"}
