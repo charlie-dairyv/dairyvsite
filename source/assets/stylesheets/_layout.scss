@@ -1,0 +1,11 @@
+section#full {
+  @include outer-container;
+  article { @include span-columns(12); }
+}
+
+section#half {
+  @include outer-container;
+  article { @include span-columns(6); }
+  aside { @include span-columns(6); }
+}
+

@@ -1,0 +1,101 @@
+// http://codepen.io/andornagy/pen/xhiJH
+nav {
+  background-color: $nav-background-passive-top-color;
+  @include linear-gradient( $nav-background-passive-top-color, $nav-background-passive-bottom-color);
+// To combat the space between inline-block elements
+//  font-size: 0;
+}
+
+nav ul {
+  padding:0;
+  margin:0;
+  list-style: none;
+  position: relative;
+  font-size: $base-font-size;
+}
+
+nav ul li {
+  border-right: 2px solid $base-background-color;
+  display:inline-block;
+  padding: 0 10px;
+  // TODO: Suspsect, need to figur eout better inline block strategy
+  margin-left: -5px;
+  &#first_li {
+    margin-left: 0;
+    padding-left: 10px;
+  }
+}
+
+nav a {
+  display: block;
+  padding: 0 5px;
+  color: $base-background-color;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 35px;
+  text-decoration:none;
+}
+
+#main_nav li:hover {
+  background-color: $nav-background-active-color;
+}
+
+#sub_nav li:hover, #sub_nav li:active {
+  background-color: $dropdown-backround-active-color;
+//  box-shadow: 4px 5px 13px -6px rgba(0,0,0,0.56);
+}
+
+/* Hide Dropdowns by Default */
+nav ul ul {
+  display: none;
+  padding: 7px 5px 0 0;
+  position: absolute;
+}
+
+#sub_nav li {
+//  box-shadow: 4px 5px 13px -6px rgba(0,0,0,0.56);
+  background-color: $dropdown-backround-passive-color;
+  color: $dropdown-font-color;
+  margin-right: 5px;
+  &:first-of-type {
+    @include border-top-radius(5px);
+  }
+   &:last-of-type {
+    @include border-bottom-radius(5px);
+    border-bottom: none;
+  }
+  a {
+    color: $dropdown-font-color;
+  }
+}
+
+/* Display Dropdowns on Hover */
+nav  ul li:hover > ul {
+  display:inherit;
+}
+
+/* Fisrt Tier Dropdown */
+nav ul ul li {
+  padding: 0;
+//  background-color: $dropdown-backround-passive-color;
+  border-bottom: 2px dotted $dropdown-border-color;
+  border-right: none;
+  display:list-item;
+  float:none;
+  position: relative;
+  width: $dropdown-width;
+}
+
+/* Second, Third and more Tiers */
+nav ul ul ul li {
+  @include calc(left, "#{$dropdown-width} + 5px");
+  position: relative;
+  top:-42px;
+  margin-left: -2px;
+}
+
+
+/* Change this in order to change the Dropdown symbol */
+li li > a:after { content:  ' ▶'; }
+li > a:only-child:after { content: ''; }
