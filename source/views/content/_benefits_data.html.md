@@ -1,10 +1,22 @@
-#Header1
-##Header2
-###Header3
-Content for contact pages can be put here.
+#BENEFITS OF SEVENx™ PROCESS TECHNOLOGY
 
-*Lorem ipsum dolor sit amet*, consectetur adipiscing elit. Pellentesque at magna accumsan, aliquam diam a, commodo lorem. Vivamus et metus et mauris euismod pretium. Aenean id ipsum eu augue hendrerit malesuada. Fusce imperdiet luctus urna, eu sodales purus aliquet sed. Phasellus congue mattis diam mattis volutpat. Maecenas vulputate quam ut sapien posuere, non lobortis leo aliquet. Suspendisse tincidunt sit amet elit ut rhoncus. Integer eget molestie velit, vel hendrerit justo. Nullam massa libero, iaculis eu consequat in, tempus fringilla purus. Nulla viverra purus id eros aliquet, vitae consectetur dolor maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus tempor mauris quis ligula lacinia, eget elementum felis ultricies. Nulla vestibulum at nibh vitae ultricies. Pellentesque volutpat ligula ac eros hendrerit porttitor. Aliquam ultrices sollicitudin dui vel dictum.
 
-**Integer a turpis enim.** Etiam porta sagittis velit, sed maximus sem semper at. Proin id felis laoreet, interdum elit nec, bibendum lectus. Nunc in augue non erat dignissim ornare. Curabitur rutrum at libero quis sollicitudin. Proin vitae est mi. Nulla et eros nisl. Suspendisse lacinia nisl eu ligula malesuada, at maximus ligula ullamcorper. Nulla rutrum a odio in lobortis. Donec at dictum nulla. Duis ultrices sollicitudin tellus et mollis.
+Why super-concentrate milk using the SEVENx™ process? 
 
-Suspendisse ***viverra*** consectetur sapien, in ultricies nulla rutrum eget. Aliquam in mattis odio, eu porttitor lacus. Quisque dapibus velit ut iaculis pharetra. Aenean sagittis laoreet suscipit. Phasellus mattis, lectus vitae accumsan porta, elit mauris fringilla neque, non vehicula diam risus venenatis arcu. Vivamus cursus a magna sit amet eleifend. Donec sit amet magna eu urna efficitur mattis. Cras lobortis ante quis mi porttitor egestas in vitae nisl. Cras auctor elit dui, ac feugiat metus pretium a. Sed arcu mauris, dictum ut consectetur eu, ornare id ex. Integer est magna, gravida ac hendrerit nec, egestas sed mi. Vestibulum sit amet magna efficitur turpis venenatis pulvinar ac in risus. Duis et semper elit. Nullam at arcu felis. Nunc a purus ac odio sagittis tristique quis ac justo. Pellentesque quis purus dapibus, pulvinar enim ac, sagittis erat.
+**Taste Matters**:  What we consume must taste good, or it will fail.  And there are lots of examples of that! It’s key that our SEVENx™ process retains the natural fresh taste of milk with one small difference, it is just a little bit sweeter. (see below: Why it’s sweeter?) 
+
+**Shelf Stable**: Fresh milk is refrigerated to preserve its flavor and keep it from spoiling. Our process achieves both of these with a shelf life at ambient (room) temperature of 6 months. This will open up new possibilities for beverages etc.
+
+**Lactose-Free:** Natural milk sugar, lactose, is made up of two monosaccharides: glucose and galactose. As part of our process we convert the lactose into its constituent sugars, the same as in fresh lactose-free milks sold in stores.  So our lactose-free milk can be enjoyed by the 75% of the population that has trouble digesting lactose, known as lactose intolerance. 
+
+**Low Investments:** One would think that the cost to make this product is high and that it requires a large investment in high tech equipment. Not so. Much of the equipment is common and many dairy processors already have this in place. The investment is relatively low.
+
+**Sustainability:** No refrigeration means less energy needed for storage, a longer shelf life means (much) less product spoilage and returns, and because it is super-concentrated, there is less transport and storage need. The SEVENx™ process has great environmental benefit. 
+
+
+
+SIDEBAR
+:
+Why it’s sweeter?
+
+Sugar sweetness is commonly measured on a relative scale that scores sucrose, or sugar, as 100. Lactose scores a low 16, whilst its constituent sugars, glucose and galactose, score 74 and 60 respectively. When you convert lactose into glucose and galactose the mixture has a score of about 65, sweeter than the lactose score of 16. 

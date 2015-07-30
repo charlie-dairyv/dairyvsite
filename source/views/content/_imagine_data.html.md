@@ -1,10 +1,41 @@
-#Header1
-##Header2
-###Header3
-Content for contact pages can be put here.
+#IMAGINE                 
+<ad a pie chart>
 
-*Lorem ipsum dolor sit amet*, consectetur adipiscing elit. Pellentesque at magna accumsan, aliquam diam a, commodo lorem. Vivamus et metus et mauris euismod pretium. Aenean id ipsum eu augue hendrerit malesuada. Fusce imperdiet luctus urna, eu sodales purus aliquet sed. Phasellus congue mattis diam mattis volutpat. Maecenas vulputate quam ut sapien posuere, non lobortis leo aliquet. Suspendisse tincidunt sit amet elit ut rhoncus. Integer eget molestie velit, vel hendrerit justo. Nullam massa libero, iaculis eu consequat in, tempus fringilla purus. Nulla viverra purus id eros aliquet, vitae consectetur dolor maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus tempor mauris quis ligula lacinia, eget elementum felis ultricies. Nulla vestibulum at nibh vitae ultricies. Pellentesque volutpat ligula ac eros hendrerit porttitor. Aliquam ultrices sollicitudin dui vel dictum.
+It’s incredibly exciting learning and evaluating all the possibilities of what the SEVENx™ process technology can bring to the dairy industry. Here are a few areas we are active, with more to come!
 
-**Integer a turpis enim.** Etiam porta sagittis velit, sed maximus sem semper at. Proin id felis laoreet, interdum elit nec, bibendum lectus. Nunc in augue non erat dignissim ornare. Curabitur rutrum at libero quis sollicitudin. Proin vitae est mi. Nulla et eros nisl. Suspendisse lacinia nisl eu ligula malesuada, at maximus ligula ullamcorper. Nulla rutrum a odio in lobortis. Donec at dictum nulla. Duis ultrices sollicitudin tellus et mollis.
+##Milk, the Beverage
 
-Suspendisse ***viverra*** consectetur sapien, in ultricies nulla rutrum eget. Aliquam in mattis odio, eu porttitor lacus. Quisque dapibus velit ut iaculis pharetra. Aenean sagittis laoreet suscipit. Phasellus mattis, lectus vitae accumsan porta, elit mauris fringilla neque, non vehicula diam risus venenatis arcu. Vivamus cursus a magna sit amet eleifend. Donec sit amet magna eu urna efficitur mattis. Cras lobortis ante quis mi porttitor egestas in vitae nisl. Cras auctor elit dui, ac feugiat metus pretium a. Sed arcu mauris, dictum ut consectetur eu, ornare id ex. Integer est magna, gravida ac hendrerit nec, egestas sed mi. Vestibulum sit amet magna efficitur turpis venenatis pulvinar ac in risus. Duis et semper elit. Nullam at arcu felis. Nunc a purus ac odio sagittis tristique quis ac justo. Pellentesque quis purus dapibus, pulvinar enim ac, sagittis erat.
+Liquid milk sales are just not that exciting: They decline by up to 2% a year and have dropped 30% over the last ten years. Why? Many reasons but among them a huge number of competing milks, from soy to almond to flax and beyond, exciting new functional drinks such as smoothies, and milk’s inability to be conveniently available where the customer wants to buy them. It’s a challenge, because milk’s nutrition has them all beat, and its sales should be growing! 
+
+Let’s look at quick service restaurants (known as QSR’s). At these establishments, milk is usually held behind the counter in a refrigerator. If it’s actually in code and the customer remembers to ask for it, it might sell. How can it compete with those other beverages all readily available at the beverage dispenser? No wonder it doesn’t sell. 
+
+Our SEVENx™ process technology allows the serving of fresh milk beverages from a beverage dispenser, with flavors left to your imagination. No refrigeration needed, no out-of-code product, more than 300 eight fluid ounce servings from one 5-gallon super-concentrate bag. Easy. Innovative. Healthy. 
+
+
+##Bulk Milk Shipment: 
+
+Milk flows, both nationally and globally from areas of high production to areas where it is consumed. It’s shipped by tanker (fresh milk), by heating and aseptically packaging it (UHT milk), as well as by spray drying it (milk powders). 
+
+The SEVENx process allows us to ship and store milk in large quantities. It doesn’t require refrigeration and because it is a super-concentrate, only requires one truck where before we needed seven.  
+
+We can now ship product across the country to where it is needed at a fraction of the price and with huge sustainability benefits. As an export, we can ship super-concentrate around the globe where it can be reconstituted to milk or used to make dairy products such as yogurt. Sustainable. Exciting. Healthy. 
+
+##Milk the Ingredient: 
+
+Dairy ingredients historically have been a way to use up excess milk. You simply dried it and sold it to someone who used it as an ingredient in a food or beverage. This has evolved and is now a $19 billion global industry.  Most global dairy companies today have specialized divisions that focus on the development and delivery of milk ingredients. 
+
+Dry milk ingredients taste, well, like they come from dry milk ingredients! Powder taste is the technical term that is often used. The SEVENx™ process gives industry an alternative that tastes like fresh milk, is shelf stable and is easy to use. 
+
+We don’t see ourselves competing directly against the massive scale of dry milk powder ingredients – we’re content to find those opportunities where the taste and freshness is a premium. Where they realize the benefit of being lactose free. 
+
+
+Sidebar
+#Our Tech Center
+
+An important part of commercializing new technologies such the SEVENx™ process, is the ability to work on the equipment, to make products for sampling, to really understand what we have in a nuts and bolts way. 
+
+To that end we have invested in a state-of-the-art pilot plant, located in Wisconsin, which is fully licensed to produce dairy products. It’s equipped with all the equipment necessary, including the specialized evaporation and packaging equipment, to produce samples for testing by our customers as well as show our technology in operation. 
+
+It’s a focus of our organization; critical to driving innovation.
+
+<We will ad photo of Pilot Center>
