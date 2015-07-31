@@ -810,7 +810,6 @@ body {
 #masthead {
   background-position: 50px 40px, left top;
   background-repeat: no-repeat;
-  background-image: url("../images/logo.png"), url("../images/sustainable.jpg");
   display: block;
   height: 343px; }
 
@@ -848,7 +847,7 @@ footer {
   background-image: url("../images/logo.png"), url("../images/about.png"); }
 
 /* line 26, /Users/blackfrog/Projects/dairyvsite/source/assets/stylesheets/_header_styles.css.scss */
-.sutainability #masthead {
+.sustainability #masthead {
   background-image: url("../images/logo.png"), url("../images/sustainability.png"); }
 
 /* line 30, /Users/blackfrog/Projects/dairyvsite/source/assets/stylesheets/_header_styles.css.scss */
