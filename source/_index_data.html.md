@@ -6,12 +6,12 @@ Our Mission is to change how milk is consumed around the world, starting in our 
 
 ##What are we? 
 
-We are a new Dairy Technology Company based in Wisconsin. We have developed a  unique processing technology that we believe will change the way we consume fresh milk, how we transport milk and how we use milk as an ingredient in food products. We’re excited. We’re committed. Please explore our website to learn more about us, our technology and how we are developing this opportunity. 
+"We are a new Dairy Technology Company based in Wisconsin. We have developed a  unique processing technology that we believe will change the way we consume fresh milk, how we transport milk and how we use milk as an ingredient in food products. We’re excited. We’re committed. Please explore our website to learn more about us, our technology and how we are developing this opportunity. 
 
 
-The dairy industry isn't just my life's work, it's my passion!
+The dairy industry isn't just my life's work, it's my passion!"
 
 
-Dr. Charles Sizer, Founder
+*Dr. Charles Sizer, Founder*
 
 
