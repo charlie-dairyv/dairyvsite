@@ -1,4 +1,4 @@
-#IMAGINE                 
+#IMAGINE
 <ad a pie chart>
 
 It’s incredibly exciting learning and evaluating all the possibilities of what the SEVENx™ process technology can bring to the dairy industry. Here are a few areas we are active, with more to come!
@@ -27,15 +27,3 @@ Dairy ingredients historically have been a way to use up excess milk. You simply
 Dry milk ingredients taste, well, like they come from dry milk ingredients! Powder taste is the technical term that is often used. The SEVENx™ process gives industry an alternative that tastes like fresh milk, is shelf stable and is easy to use. 
 
 We don’t see ourselves competing directly against the massive scale of dry milk powder ingredients – we’re content to find those opportunities where the taste and freshness is a premium. Where they realize the benefit of being lactose free. 
-
-
-Sidebar
-#Our Tech Center
-
-An important part of commercializing new technologies such the SEVENx™ process, is the ability to work on the equipment, to make products for sampling, to really understand what we have in a nuts and bolts way. 
-
-To that end we have invested in a state-of-the-art pilot plant, located in Wisconsin, which is fully licensed to produce dairy products. It’s equipped with all the equipment necessary, including the specialized evaporation and packaging equipment, to produce samples for testing by our customers as well as show our technology in operation. 
-
-It’s a focus of our organization; critical to driving innovation.
-
-<We will ad photo of Pilot Center>
