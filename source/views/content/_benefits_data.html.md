@@ -12,11 +12,3 @@ Why super-concentrate milk using the SEVENx™ process?
 **Low Investments:** One would think that the cost to make this product is high and that it requires a large investment in high tech equipment. Not so. Much of the equipment is common and many dairy processors already have this in place. The investment is relatively low.
 
 **Sustainability:** No refrigeration means less energy needed for storage, a longer shelf life means (much) less product spoilage and returns, and because it is super-concentrated, there is less transport and storage need. The SEVENx™ process has great environmental benefit. 
-
-
-
-SIDEBAR
-:
-Why it’s sweeter?
-
-Sugar sweetness is commonly measured on a relative scale that scores sucrose, or sugar, as 100. Lactose scores a low 16, whilst its constituent sugars, glucose and galactose, score 74 and 60 respectively. When you convert lactose into glucose and galactose the mixture has a score of about 65, sweeter than the lactose score of 16. 

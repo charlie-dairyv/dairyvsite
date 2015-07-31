@@ -20,7 +20,7 @@ The SEVENx process allows us to ship and store milk in large quantities. It does
 
 We can now ship product across the country to where it is needed at a fraction of the price and with huge sustainability benefits. As an export, we can ship super-concentrate around the globe where it can be reconstituted to milk or used to make dairy products such as yogurt. Sustainable. Exciting. Healthy. 
 
-##Milk the Ingredient: 
+##Milk, the Ingredient: 
 
 Dairy ingredients historically have been a way to use up excess milk. You simply dried it and sold it to someone who used it as an ingredient in a food or beverage. This has evolved and is now a $19 billion global industry.  Most global dairy companies today have specialized divisions that focus on the development and delivery of milk ingredients. 
 
