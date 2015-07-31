@@ -3,17 +3,35 @@
   margin: 0;
 }
 
-.sutainability #masthead {
-  background-image: url(image_path('sustainable.jpg')), url(image-path('header_logo.png'));
-}
-
 .index #masthead {
-  background-image: url(image_path('index.jpg')), url(image-path('header_logo.png'));
+  background-image: url(image_path('logo.png')), url(image-path('index.png'));
 }
 
-#index #masthead {
-  background-image: url(image_path('index.jpg')), url(image-path('header_logo.png'));
+.sevenx #masthead {
+  background-image: url(image_path('logo.png')), url(image-path('sevenx.png'));
 }
+
+.imagine #masthead {
+  background-image: url(image_path('logo.png')), url(image-path('imagine.png'));
+}
+
+.benefits #masthead {
+  background-image: url(image_path('logo.png')), url(image-path('benefits.png'));
+}
+
+.about #masthead {
+  background-image: url(image_path('logo.png')), url(image-path('about.png'));
+}
+
+.sustainability #masthead {
+  background-image: url(image_path('logo.png')), url(image-path('sustainability.png'));
+}
+
+.contact #masthead {
+  background-image: url(image_path('')), url(image-path('contact.png'));
+}
+
+
 
 #masthead {
   background-position: 50px 40px, left top;
