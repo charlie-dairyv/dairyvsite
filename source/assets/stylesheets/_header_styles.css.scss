@@ -1,0 +1,24 @@
+#masthead h1 {
+  text-indent: -9999px;
+  margin: 0;
+}
+
+.sutainability #masthead {
+  background-image: url(image_path('sustainable.jpg')), url(image-path('header_logo.png'));
+}
+
+.index #masthead {
+  background-image: url(image_path('index.jpg')), url(image-path('header_logo.png'));
+}
+
+#index #masthead {
+  background-image: url(image_path('index.jpg')), url(image-path('header_logo.png'));
+}
+
+#masthead {
+  background-position: 50px 40px, left top;
+  background-repeat: no-repeat;
+
+  display: block;
+  height: 343px;
+}
