@@ -1,29 +1,17 @@
-**Welcome to the World of Dairyvative™ Technologies, LLC**
+#Welcome to Our World: MILK
 
-Our business is based on sourcing high-quality milk and preserving its natural goodness in a way that adds real value for our customers and consumers around the world. Dairyvative™ Technologies sets _THE_ standard for quality, digestibility and nutrition for a growing global population.
+Milk, that most natural and nutritious of beverages, gifted to us by nature – whether it be from cows, goats, sheep or any other domesticated species (Yes, camels and yak’s too).  That liquid nutrition which we enjoy as fresh milk, add different flavors to (chocolate and strawberry are the favorites), or use to make so many fantastic dairy products such as cheeses, yogurts, cream cheese and a multitude of others. 
 
-***IT STARTS HERE***
+Our Mission is to change how milk is consumed around the world, starting in our own back yard. We want milk to be available in many new places and forms, all the time being safe, nutritious and sustainable. 
 
-At Dairyvative™ Technologies, our commitment to quality extends to every stage of production, from the farm to the consumer.
+##What are we? 
 
-***A STRONG TEAM***
+We are a new Dairy Technology Company based in Wisconsin. We have developed a  unique processing technology that we believe will change the way we consume fresh milk, how we transport milk and how we use milk as an ingredient in food products. We’re excited. We’re committed. Please explore our website to learn more about us, our technology and how we are developing this opportunity. 
 
-Dairyvative™ Technologies has a well-rounded team including experienced veterans with corporate backgrounds as well as talented employees who are at the forefront of technology.
 
-***ENABLING WORLD CONSUMPTION OF MILK***
+The dairy industry isn't just my life's work, it's my passion!
 
-Our technology for preserving the fresh quality of milk also enables populations who are lactose intolerant to enjoy the benefits of consuming dairy products.  By eliminating the lactose from milk, the whole world can benefit from improved nutrition.
 
-***EXPERIENCE COUNTS***
+Dr. Charles Sizer, Founder
 
-With generations of expertise behind us, Dairyvative™ Technologies is the world leader in Dairy innovation, providing more value to both business customers and consumers.
 
-***FUTURE NUTRITION***
-
-Our story doesn't end here. Dairyvative™ Technologies offers a pure and natural product with unlimited potential and nutritional possibilities we've yet to explore.
-
-We invite you to learn more about who we are and get to know our team, our technology and our products.
-
-***The dairy industry isn't just my life's work … it's my passion!***
-
-Dr. Charles Sizer
