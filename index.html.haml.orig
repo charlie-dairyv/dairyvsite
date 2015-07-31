@@ -1,0 +1,10 @@
+---
+<<<<<<< HEAD
+title: "Home"
+=======
+title: "Page Title"
+>>>>>>> 8d982480e427b5a8086b45405c1e3d3a39607014
+---
+%section#full
+  %article
+    = partial :index_data
