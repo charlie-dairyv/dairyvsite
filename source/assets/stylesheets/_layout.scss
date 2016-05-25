@@ -7,7 +7,10 @@ section#half {
   @include outer-container;
   article { @include span-columns(6); }
   aside { @include span-columns(6); }
+}
+
+section#third {
+  @include outer-container;
   article { @include span-columns(8); }
   aside { @include span-columns(4); }
 }
-

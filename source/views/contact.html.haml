@@ -5,7 +5,7 @@ title: "Contact Page Title"
   %article
     = partial "views/content/contact_data"
   %aside
-    %form{:action => "//formspree.io/dleeds@dairyv.com", :method => "POST"}
+    %form{:action => "//formspree.io/dleeds@dairyv.com", :method => "POST", :name => "contact"}
       %label Full Name
       %input{:name => "full_name", :type => "text"}
       %label Title
@@ -22,4 +22,12 @@ title: "Contact Page Title"
       %input{:name => "postal_code", :type => "text"}
       %label E-mail
       %input{:name => "_replyto", :type => "email"}
+      
+      %label Note
+      Reason for contact / Information requested
+      %textarea{:form => "contact", :rows => "4", :cols => "80"}
+
+      
       %input{:type => "submit", :value => "Send"}
+
+    
